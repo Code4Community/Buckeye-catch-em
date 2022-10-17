@@ -13,14 +13,14 @@
 <infinite> -> forever <sequence> end
 <int>  -> <digit><int> | <digit>
 <digit> -> 0|...|9
-<statement> -> moveleft | moveright | skip
+<statement> -> moveleft | moveright | stay
 ```
 
 ## Informal Description
 
 ### Statements
 
-* moveleft, moveright
+* moveleft, moveright, stay
 
 ### Conditions
 
