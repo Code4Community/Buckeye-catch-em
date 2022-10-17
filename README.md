@@ -19,8 +19,6 @@ Their code should not automatically be in an infinite loop. If they write movele
 
 Making the game display smaller.
 
-Change "skip" to "stay".
-
 Change it so that the game continues even after code ends (basket continues to just "stay").
 
 Add high score system. The points increase each level (level 1 is like 10/-5 whereas level 2 is like 20/-10 or something).
